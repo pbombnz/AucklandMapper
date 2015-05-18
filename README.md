@@ -1,4 +1,4 @@
-# AucklandMapper
+# AucklandMapper (Java)
 
 This a Java progam which is an interactive map of Auckland. It allows us to create Articulation points
 of intersections and can find paths using A* path searching. The path is also accounts of one way roads
